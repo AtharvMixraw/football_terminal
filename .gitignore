@@ -1,0 +1,19 @@
+# Nim build artifacts
+nimcache/
+football-clubs
+football-clubs-debug
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
