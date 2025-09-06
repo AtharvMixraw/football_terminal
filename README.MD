@@ -2,9 +2,9 @@
 
 A command-line tool that displays football club logos and information directly in your terminal using ASCII art.
 
-## Demo
+## DEMO
+![Football Clubs Terminal Demo](demo-screenshot.png)
 
-<video controls src="football-terminal-systemtool.mp4" title="Title"></video>
 
 ## Features
 
